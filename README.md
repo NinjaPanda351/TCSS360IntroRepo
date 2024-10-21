@@ -1,2 +1,2 @@
 # TCSS360IntroRepo
-This is my readne.md file
+This is my readme.md file
